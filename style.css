@@ -63,11 +63,22 @@ li{
   float: left;
 }
 .rightfoot{
-  float:right;
+  float: right;
+  margin-right: 20px;
+}
+.leftfoot li{
+  margin-left: 10px;
+}
+.rightfoot li{
+  margin-left: 10px;
 }
 footer a{
   text-decoration: none;
-  margin:0 0 10px 10px;
+}
+footer{
+  position: absolute;
+  bottom:0;
+  width:100%;
 }
 
 
