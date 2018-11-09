@@ -56,8 +56,18 @@ ul{
   margin: 0;
   padding: 0;
 }
-.nav li{
+li{
   display: inline;
+}
+.leftfoot{
+  float: left;
+}
+.rightfoot{
+  float:right;
+}
+footer a{
+  text-decoration: none;
+  margin:0 0 10px 10px;
 }
 
 
